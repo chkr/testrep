@@ -3,4 +3,4 @@ testrep
 
 test
 
-pokemon
+pokemon eigamitai
